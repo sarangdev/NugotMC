@@ -1,5 +1,5 @@
 # NugotMC
-This is effective fault-tolerant MC server core, written in NodeJS using flying-squid
+This is effective fault-tolerant Minecraft server core, written in NodeJS
 # Advantages over Java cores
 - **Fault tolerance**: if an error occurs, the server will not crash
 - **Performance**: 60% faster than Java. Using Workers and Clusters
